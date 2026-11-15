@@ -1,0 +1,4 @@
+# Local document builds, downloaded data, and render/QA intermediates
+/.build/
+/.qa-reference/
+/.qa-reference-word/
